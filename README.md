@@ -30,4 +30,4 @@ print("{:.2f}".format(distance))
 ![OUTPUT](/image.png)
 
 ### RESULT:
-THUS the Python program calculates and displays the distance between two points in a 2D plane based on the user-provided coordinates.
+Thus the Python program calculates and displays the distance between two points in a 2D plane based on the user-provided coordinates.
